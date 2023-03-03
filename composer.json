@@ -1,0 +1,18 @@
+{
+    "name": "grupotoberto/jlweb",
+    "description": "PHP library for basic web site solutions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grupo Toberto",
+            "email": "jlsystemsmex@github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "com\\grupotoberto\\jlweb\\": ""
+        }
+    },
+    "require": {}
+}
